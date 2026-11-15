@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Cambodian Civil Judgment Case Briefs
+message: >-
+  These are machine-generated research notes, not legal advice and not a source of law.
+  Cite the underlying judgment alongside any brief.
+type: dataset
+authors:
+  - family-names: Chanvireak
+    given-names: Seng
+version: 0.1.0
+date-released: 2026-11-15
+license: MIT
+abstract: >-
+  108 AI-generated five-point case briefs of Cambodian civil judgments (2015-2020),
+  each with machine-checked sentence-level pin cites and a disclosed-defects note,
+  plus a cross-case digest of the doctrine the corpus applies.

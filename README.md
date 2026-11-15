@@ -28,13 +28,15 @@ The underlying judgment texts are **not** published here. They are public court 
 
 | | |
 |---|---|
-| Judgments | 108 |
-| Years | 2015 (1), 2019 (100), 2020 (7) |
+| Documents | 108 — **104 decided judgments and 4 model judgments** |
+| Years | 2019 (98), 2020 (6); decided cases run 2019 – July 2020 |
 | Courts | 16 — Phnom Penh (61), Kampong Thom (7), Siem Reap (6), Takeo (6), and 12 others |
-| Level | 106 first instance, 1 appeal, 1 cassation |
+| Level | 102 first instance, 1 appeal, 1 cassation, 4 drafting specimens |
 | Subject | Mostly bank and microfinance debt recovery; also land, sale of immovable property, family, construction |
 | Language | Khmer originals, English briefs, Khmer terms in parentheses where they matter |
 | Pin cites | 5,602, all resolved against their source text |
+
+**Four of the 108 files are model judgments, not decisions:** [160182](briefs/160182.md), [160204](briefs/160204.md), [160224](briefs/160224.md), [160264](briefs/160264.md). They open with drafting instructions — "a civil judgment must be written on the points in Article 189 of the Code of Civil Procedure" — and use placeholders (`X`, `Y`, "house No. 00, street No. 00"). The real cases in this library carry the reverse stamp: "this is a real case, not a model judgment". Their briefs say so in the header (`specimen, not decided`) and keep the drafting commentary in §6. Read them to see *how* a judgment is drafted; never cite them as authority for what a bench held.
 
 Outcomes as recorded in the briefs: 93 money judgments for the claimant, 8 partly allowed, 5 dismissed, 1 allowed, 1 remanded on cassation.
 

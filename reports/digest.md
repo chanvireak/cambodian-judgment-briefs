@@ -1,4 +1,4 @@
-# Cross-case digest — Cambodian civil judgments, 2015–2020
+# Cross-case digest — Cambodian civil judgments, 2019–2020
 
 Built from 108 briefs in `briefs/`. Every case line links to its brief; every count is
 computed from the brief text, not estimated.
@@ -7,7 +7,16 @@ computed from the brief text, not estimated.
 
 | key | cases |
 |---|---|
-| first instance | 106 |
+| documents | 108 |
+| decided judgments | 104 |
+| model judgments (drafting specimens) | 4 |
+
+### Court level
+
+| key | cases |
+|---|---|
+| first instance | 102 |
+| specimen | 4 |
 | appeal | 1 |
 | cassation | 1 |
 
@@ -67,7 +76,14 @@ computed from the brief text, not estimated.
 
 ## Synthesis — the law this corpus actually applies
 
-**What it is.** 108 briefs, 16 courts, 94,173 words, 5,602 pin cites. 100 of the 108 judgments are
+**Caveat before anything else.** Four of the 108 documents are **model judgments** — drafting specimens
+that carry editorial instructions ("a civil judgment must be written on the points in Article 189…") and
+template placeholders (`X`, `Y`, "house No. 00, street No. 00"), not records of anything a bench did:
+[160182](../briefs/160182.md), [160204](../briefs/160204.md), [160224](../briefs/160224.md),
+[160264](../briefs/160264.md). Anything below that cites them is describing a *form*, not a holding. The
+decided-case corpus is 104 judgments, 2019 – July 2020; the "2015" date in the range comes from a specimen.
+
+**What it is.** 104 decided judgments plus 4 specimens, 16 courts, 94,173 words, 5,602 pin cites. 100 of the 108 judgments are
 from 2019; 61 come from Phnom Penh; 106 are first instance, 1 appeal, 1 cassation. So this is a body of
 *trial-level* reasoning, not authority: only [143352](../briefs/143352.md) (Supreme Court, remand) and
 [143351](../briefs/143351.md) (Appeal Court) bind anyone, and 143352 decided nothing on the merits.
@@ -174,14 +190,14 @@ require a consistent documentary file before entering judgment ([143339](../brie
 - Registered title beats an unregistered sale ([143335](../briefs/143335.md)); a sale signed by a
   non-owner without written authority creates nothing ([143255](../briefs/143255.md)); a seller may
   dissolve a sale for non-payment under Arts 407–408 ([143259](../briefs/143259.md)) or rescind against a
-  deposit by tendering double ([160264](../briefs/160264.md)); overlapping possession certificates are
+  deposit by tendering double ([160264](../briefs/160264.md) — **specimen**, illustration of form only); overlapping possession certificates are
   resolved on the boundary descriptions and the land-office record ([143286](../briefs/143286.md)).
 
 ### Thread 7 — prescription
 
 A written acknowledgment restarts a limitation period that has already run
 ([143285](../briefs/143285.md)); a part-payment acknowledged by the creditor as performance of the debt
-interrupts it ([160182](../briefs/160182.md)); a bare "I understand" reply to a request for time varies
+interrupts it ([160182](../briefs/160182.md) — **specimen**); a bare "I understand" reply to a request for time varies
 nothing and the original date stands ([160204](../briefs/160204.md)).
 
 ### Divergences worth arguing
@@ -213,7 +229,7 @@ licensing, enforcement procedure after judgment, or family property beyond one c
 
 ### Battambang
 
-- [160224](../briefs/160224.md) — X v Y (Divorce Judgment, Battambang Provincial Court, 12 August 2020) · *money judgment for claimant*
+- [160224](../briefs/160224.md) — X v Y (Model divorce judgment, Battambang Provincial Court, 12 August 2020) · *money judgment for claimant*
 
 ### Kampong Cham
 
@@ -313,14 +329,14 @@ licensing, enforcement procedure after judgment, or family property beyond one c
 - [143346](../briefs/143346.md) — Bank D v Mr C1 and Ms C2 (Civil Judgment No. 58 K1, Phnom Penh Municipal Court, 17 January 2020) · *money judgment for claimant*
 - [143348](../briefs/143348.md) — Specialised Bank D v Ms C1, Mr C2 and Ms C3 (Civil Judgment No. 38 K, Phnom Penh Municipal Court, 15 January 2020) · *money judgment for claimant*
 - [143350](../briefs/143350.md) — Microfinance institution D v Ms 01, Mr C2, Ms C3 and Mr 04 (Civil Judgment No. 117 K, Phnom Penh Municipal Court, 30 January 2020) · *money judgment for claimant*
-- [143351](../briefs/143351.md) — Mr A v Ms B (Civil Judgment No. 427, Phnom Penh Court of Appeal, 18 November 2019) · *allowed*
+- [143351](../briefs/143351.md) — Mr A v Ms B (Civil Judgment No. 427; order sheet No. 40 ក្រVII(ធ), Phnom Penh Court of Appeal, 18 November 2019) · *allowed*
 - [143353](../briefs/143353.md) — Ms D v Mr C and Ms C (Civil Judgment No. 165 "K1", Phnom Penh Court of First Instance, 10 February 2020) · *money judgment for claimant*
-- [160182](../briefs/160182.md) — X v Y (Civil Judgment, Phnom Penh Court of First Instance, 20 February 2015) · *money judgment for claimant*
-- [160264](../briefs/160264.md) — X v Y (Civil Judgment, Phnom Penh Court of First Instance, 30 April 2019) · *dismissed*
+- [160182](../briefs/160182.md) — X v Y (Model judgment, Phnom Penh Court of First Instance, 20 February 2015) · *money judgment for claimant*
+- [160264](../briefs/160264.md) — X v Y (Model judgment, Phnom Penh Court of First Instance, 30 April 2019) · *dismissed*
 
 ### Preah Sihanouk
 
-- [143335](../briefs/143335.md) — Ms D v Mr C1, Ms C1-2 and others (Civil Judgment No. 75/03 "K", Preah Sihanouk Provincial Court, 11 September 2019) · *dismissed*
+- [143335](../briefs/143335.md) — Ms D v Mr C1, Ms C1-2 and others (Civil Judgment No. 75/03 "ឈ" (Kh), Preah Sihanouk Provincial Court, 11 September 2019) · *dismissed*
 
 ### Preah Vihear
 
@@ -330,7 +346,7 @@ licensing, enforcement procedure after judgment, or family property beyond one c
 ### Ratanakiri
 
 - [143312](../briefs/143312.md) — Bank D v Mr C1 and Ms C2 (Civil Judgment No. 08 "K", Rattanakiri Provincial Court, 28 August 2019) · *money judgment for claimant*
-- [160204](../briefs/160204.md) — X v Y (Civil Judgment, Ratanakiri Provincial Court, 28 June 2019) · *money judgment for claimant*
+- [160204](../briefs/160204.md) — X v Y (Model judgment, Ratanakiri Provincial Court, 28 June 2019) · *money judgment for claimant*
 
 ### Siem Reap
 
@@ -351,7 +367,7 @@ licensing, enforcement procedure after judgment, or family property beyond one c
 - [143304](../briefs/143304.md) — Microfinance institution D v Ms C1 and Mr C2 (Civil Judgment No. 11 "ឆ", Takeo Provincial Court, 10 September 2019) · *partly allowed*
 - [143305](../briefs/143305.md) — Microfinance institution D v Ms 09, Mr 02 and Mr 03 (Civil Judgment No. 10 "ឆ", Takeo Provincial Court, 5 September 2019) · *money judgment for claimant*
 - [143333](../briefs/143333.md) — Microfinance Institution D v Ms C1, Mr C2 and Ms C3 (Civil Judgment No. 21 K, Takeo Provincial Court, 17 December 2019) · *money judgment for claimant*
-- [143345](../briefs/143345.md) — Microfinance institution (name redacted) v Mr C1 and Ms C2 (Civil Judgment No. 017 K, Takéo Provincial Court, 5 December 2019) · *money judgment for claimant*
+- [143345](../briefs/143345.md) — Microfinance institution (name redacted) v Mr C1 and Ms C2 (Civil Judgment No. 017 "ច" (Ch), Takéo Provincial Court, 5 December 2019) · *money judgment for claimant*
 - [143349](../briefs/143349.md) — Mr D v Ms C (Civil Judgment No. 01 Ch, Takéo Provincial Court, 23 January 2020) · *money judgment for claimant*
 
 ### Tboung Khmum

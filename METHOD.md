@@ -8,6 +8,12 @@ Judgments were selected from a private document library by document type (`Judgm
 documents). Content is the library's OCR text of each Khmer judgment: space-segmented Khmer, no reliable page
 structure, names sometimes reduced to a single initial or a bare digit.
 
+Four of the 108 are **model judgments**: drafting specimens that carry editorial instructions ("a civil
+judgment must be written on the points in Article 189 of the Code of Civil Procedure") and template
+placeholders (`X`, `Y`, "house No. 00, street No. 00"). The rest carry the opposite stamp — "this is a real
+case, not a model judgment". The specimens are briefed like any other document but marked `specimen, not
+decided` in the header, and every count in this repository separates them from the 104 decided cases.
+
 ## Pipeline
 
 Three stages, each idempotent, run by an AI agent with a small Python state machine.

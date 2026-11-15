@@ -1,6 +1,13 @@
 ## Synthesis — the law this corpus actually applies
 
-**What it is.** 108 briefs, 16 courts, 94,173 words, 5,602 pin cites. 100 of the 108 judgments are
+**Caveat before anything else.** Four of the 108 documents are **model judgments** — drafting specimens
+that carry editorial instructions ("a civil judgment must be written on the points in Article 189…") and
+template placeholders (`X`, `Y`, "house No. 00, street No. 00"), not records of anything a bench did:
+[160182](../briefs/160182.md), [160204](../briefs/160204.md), [160224](../briefs/160224.md),
+[160264](../briefs/160264.md). Anything below that cites them is describing a *form*, not a holding. The
+decided-case corpus is 104 judgments, 2019 – July 2020; the "2015" date in the range comes from a specimen.
+
+**What it is.** 104 decided judgments plus 4 specimens, 16 courts, 94,173 words, 5,602 pin cites. 100 of the 108 judgments are
 from 2019; 61 come from Phnom Penh; 106 are first instance, 1 appeal, 1 cassation. So this is a body of
 *trial-level* reasoning, not authority: only [143352](../briefs/143352.md) (Supreme Court, remand) and
 [143351](../briefs/143351.md) (Appeal Court) bind anyone, and 143352 decided nothing on the merits.
@@ -107,14 +114,14 @@ require a consistent documentary file before entering judgment ([143339](../brie
 - Registered title beats an unregistered sale ([143335](../briefs/143335.md)); a sale signed by a
   non-owner without written authority creates nothing ([143255](../briefs/143255.md)); a seller may
   dissolve a sale for non-payment under Arts 407–408 ([143259](../briefs/143259.md)) or rescind against a
-  deposit by tendering double ([160264](../briefs/160264.md)); overlapping possession certificates are
+  deposit by tendering double ([160264](../briefs/160264.md) — **specimen**, illustration of form only); overlapping possession certificates are
   resolved on the boundary descriptions and the land-office record ([143286](../briefs/143286.md)).
 
 ### Thread 7 — prescription
 
 A written acknowledgment restarts a limitation period that has already run
 ([143285](../briefs/143285.md)); a part-payment acknowledged by the creditor as performance of the debt
-interrupts it ([160182](../briefs/160182.md)); a bare "I understand" reply to a request for time varies
+interrupts it ([160182](../briefs/160182.md) — **specimen**); a bare "I understand" reply to a request for time varies
 nothing and the original date stands ([160204](../briefs/160204.md)).
 
 ### Divergences worth arguing
